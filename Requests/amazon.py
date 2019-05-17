@@ -7,7 +7,7 @@ from exceptions import ValueError
 from time import sleep
 from random import randint
 import urllib3
-
+#추가내용
 # urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def parse(url):
